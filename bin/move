@@ -1,4 +1,4 @@
-puts "Welcome to Tic Tac Toe!"
+
 
 puts "Where would you like to go?"
 board = [" "," "," "," "," "," "," "," "," "]
@@ -10,3 +10,4 @@ index = input_to_index(index)
 move(board, input)
 
 display_board([" "," "," "," "," "," "," "," "," "])
+prints "Welcome to Tic Tac Toe!"
