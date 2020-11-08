@@ -10,4 +10,4 @@ index = input_to_index(index)
 move(board, input)
 
 display_board([" "," "," "," "," "," "," "," "," "])
-put "Welcome to Tic Tac Toe!"
+puts "Welcome to Tic Tac Toe!"
