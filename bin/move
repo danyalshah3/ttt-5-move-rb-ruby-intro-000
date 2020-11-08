@@ -7,6 +7,6 @@ input = gets.strip
 
 index = input_to_index(index)
 
-move(board, index)
+move(board, input)
 
 display_board([" "," "," "," "," "," "," "," "," "])
